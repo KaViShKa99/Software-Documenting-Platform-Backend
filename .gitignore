@@ -1,0 +1,10 @@
+# Flask
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.log
+*.sqlite
+instance/
+env/
+.venv/
